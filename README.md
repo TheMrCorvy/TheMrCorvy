@@ -1,19 +1,30 @@
-### Hi there 👋
+### Hello there 
 
-My name is Gonzalo, I'm from Argentina. I'm a Fullstack Web Developer, specialized in Frontend development with React JS, TypeScript, and Material UI.
+*(now you should reply "general kenobi")*
 
-Some of the things I like to do in my free time are playing Yu-Gi-Oh!, chess, or board games in general, and most importantly watching [Anime](https://corvalangonzalo.xyz/animes).
+Hi, my name is Gonzalo, I'm from Argentina. As you may have noticed I'm a big fan of Star Wars, but beisdes that, I'm a Fullstack Web Developer, specialized in Front-End with React JS, TypeScript, and Material UI.
+
+Some of the things I like to do in my free time are playing Yu-Gi-Oh!, chess, or board games in general, and most importantly watching [Anime](https://corvalangonzalo.xyz/animes). *(I'm also a big fan of anime)*
 
 ## Skills and Experience
 
 - React 
+- React Native
+- Redux
+- PWA
 - Next JS
 - TypeScript
+- Material UI
+- Bootstrap
+- CSS
 - Vanilla JavaScript
+- Electron JS
 - Node JS
-- Laravel (as backend REST API)
+- Laravel (as backend API)
 - MySQL
 - MongoDB
+
+[![TheMrCorvy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMrCorvy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Personal Projects
 
@@ -28,4 +39,13 @@ It synchronizes all the stored passwords of the users across al the users' regis
 This app was built using React JS and a layout for Reactstrap.
 
 
-[![TheMrCorvy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMrCorvy)](https://github.com/anuraghazra/github-readme-stats)
+## Freelancer Projects
+![Salud Y Derechos](https://res.cloudinary.com/dk61gssrr/image/upload/v1641898760/projects/salud_lqnvlq.jpg "Salud Y Derechos")
+The web page that serves as presentation for the lawyer Dr. Juan Pablo Corvalán.
+
+This web page explains the process to claim for the legal protection of the Human Right, as well as show the achievements and studies of the Dr.
+
+![Yu-Gi-Oh! Para El Pueblo](https://res.cloudinary.com/dk61gssrr/image/upload/v1641898862/projects/ygopep_jbnzjb.jpg "Yu-Gi-Oh! Para El Pueblo")
+An E-Commerce built using only Laravel (for both the frontend and backend), and MySQL for the database.
+
+
