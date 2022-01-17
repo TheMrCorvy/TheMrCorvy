@@ -44,12 +44,34 @@ This app was built using React JS and a layout for Reactstrap.
   <br/>
   <br/>
   
+ ### [Nihongo Ap](https://themrcorvy.github.io/nihongo-app/)
+ A prgressive Web Aplication for studying Japanese language.
+
+This app was built using React JS and a layout for Reactstrap.
+
+  <br/>
+  <br/>
+  
 ## Freelancer Projects
 
 ### [Salud Y Derechos](https://saludyderechos.com.ar)
 The web page that serves as presentation for the lawyer Dr. Juan Pablo Corvalán.
 
 This web page explains the process to claim for the legal protection of the Human Right, as well as show the achievements and studies of the Dr.
+
+  <br/>
+  <br/>
+  
+### [Stallion marroquinería](https://stallionmarroquineria.com)
+The web application for the E-Commerce of Stallion Marroquinería.
+
+This app was built using Next JS, TypeScript, and MaterialUI for the frontend, and Laravel as backend API, with MySQL database.
+
+  <br/>
+  <br/>
+  
+### [Agromix](https://themrcorvy.github.io/agromix/)
+A simple web page built with React JS and TypeScript, that serves as presentation for the agriculture-related products E-Commerce.
 
   <br/>
   <br/>
