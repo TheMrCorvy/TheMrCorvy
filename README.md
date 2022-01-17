@@ -4,8 +4,6 @@ My name is Gonzalo, I'm from Argentina. I'm a Fullstack Web Developer, specializ
 
 Some of the things I like to do in my free time are playing Yu-Gi-Oh!, chess, or board games in general, and most importantly watching [Anime](https://corvalangonzalo.xyz/animes).
 
----
-
 ## Skills and Experience
 
 - React 
