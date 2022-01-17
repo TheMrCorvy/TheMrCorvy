@@ -32,8 +32,7 @@ Some of the things I like to do in my free time are playing Yu-Gi-Oh!, chess, or
 
 ## My Personal Projects
 
-### PasuNashi
-![PasuNashi App](https://res.cloudinary.com/dk61gssrr/image/upload/v1642176449/projects/pasunashi_jj0ic9.png "PasuNashi")
+### [PasuNashi](https://pasunashi.xyz)
 A complete password manager app bult with React JS, TypeScrpt, and Material UI for the frontend, and Laravel with MySQL as the backend.
 
 Ths app includes role managements for users, premium functions, payments handling wth PayPal and Coinbase.
@@ -42,6 +41,7 @@ It synchronizes all the stored passwords of the users across al the users' regis
 
 This app was built using React JS and a layout for Reactstrap.
 
+  --
   
 ## Freelancer Projects
 
