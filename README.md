@@ -41,7 +41,8 @@ It synchronizes all the stored passwords of the users across al the users' regis
 
 This app was built using React JS and a layout for Reactstrap.
 
-  --
+  <br/>
+  <br/>
   
 ## Freelancer Projects
 
@@ -50,7 +51,8 @@ The web page that serves as presentation for the lawyer Dr. Juan Pablo Corvalán
 
 This web page explains the process to claim for the legal protection of the Human Right, as well as show the achievements and studies of the Dr.
 
- 
+  <br/>
+  <br/>
 ### [Yu-Gi-Oh! Para El Pueblo](https://yugiohparaelpueblo.herokuapp.com/)
 An E-Commerce built using only Laravel (for both the frontend and backend), and MySQL for the database.
 
