@@ -1,6 +1,6 @@
 ### Hello there 
 
-*(now you should reply "general kenobi")*
+*(now you should reply with "general kenobi")*
 
 Hi, my name is Gonzalo, I'm from Argentina. As you may have noticed I'm a big fan of Star Wars, but beisdes that, I'm a Fullstack Web Developer, specialized in Front-End with React JS, TypeScript, and Material UI.
 
