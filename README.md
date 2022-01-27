@@ -38,7 +38,7 @@ It synchronizes all the stored passwords of the users across al the users' regis
 This app was built using React JS and a layout for Reactstrap.
 
   
- ### [Nihongo Ap](https://themrcorvy.github.io/nihongo-app/)
+ ### [Nihongo App](https://themrcorvy.github.io/nihongo-app/)
  A prgressive Web Aplication for studying Japanese language.
 
 This app was built using React JS and a layout for Reactstrap.
