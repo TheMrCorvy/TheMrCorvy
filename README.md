@@ -9,6 +9,7 @@ Some of the things I like to do in my free time are playing Yu-Gi-Oh!, chess, or
 ## Skills and Experience
 
 - React 
+- React Native
 - Redux
 - PWA
 - Next JS
@@ -16,6 +17,7 @@ Some of the things I like to do in my free time are playing Yu-Gi-Oh!, chess, or
 - Vanilla JavaScript
 - Electron JS
 - Node JS
+- Express JS
 - Laravel (as backend API)
 - MySQL
 - MongoDB
@@ -27,6 +29,9 @@ Some of the things I like to do in my free time are playing Yu-Gi-Oh!, chess, or
   <br/>
 
 ## My Personal Projects
+
+### [Media Suite](https://media-suite.netlify.app)
+A web interface built with React and TypeScript for the FFMPEG.wasm web assembly component.
 
 ### [PasuNashi](https://pasunashi.xyz)
 A complete password manager app bult with React JS, TypeScrpt, and Material UI for the frontend, and Laravel with MySQL as the backend.
