@@ -11,6 +11,7 @@ Some of the things I like to do in my free time are playing Yu-Gi-Oh!, chess, or
 - React 
 - React Native
 - Redux
+- Vue JS
 - PWA
 - Next JS
 - TypeScript
@@ -18,22 +19,21 @@ Some of the things I like to do in my free time are playing Yu-Gi-Oh!, chess, or
 - Electron JS
 - Node JS
 - Express JS
+- Nest JS
 - Laravel (as backend API)
 - MySQL
+- PosgreSQL
 - MongoDB
+- Strapi
 
-  <br/>
-  
-[![TheMrCorvy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMrCorvy)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
   <br/>
 
 ## My Personal Projects
 
-### [Media Suite](https://media-suite.netlify.app)
-A web interface built with React and TypeScript for the FFMPEG.wasm web assembly component.
+### [Unlimited Blade Works](https://unlimitedblades.work)
+A streaming app built with Next JS, Strapi, and Express JS. It is a pirate site that streams my anime library (from my homelab) and only users with the invitation can access it.
 
-### [PasuNashi](https://pasunashi.xyz)
+### [PasuNashi](https://pasunashi.corvalangonzalo.com)
 A complete password manager app bult with React JS, TypeScrpt, and Material UI for the frontend, and Laravel with MySQL as the backend.
 
 Ths app includes role managements for users, premium functions, payments handling wth PayPal and Coinbase.
@@ -58,17 +58,7 @@ The web page that serves as presentation for the lawyer Dr. Juan Pablo Corvalán
 This web page explains the process to claim for the legal protection of the Human Right, as well as show the achievements and studies of the Dr.
 
   
-### [Stallion marroquinería](https://stallionmarroquineria.com)
-The web application for the E-Commerce of Stallion Marroquinería.
-
-This app was built using Next JS, TypeScript, and MaterialUI for the frontend, and Laravel as backend API, with MySQL database.
-
-  
 ### [Agromix](https://themrcorvy.github.io/agromix/)
 A simple web page built with React JS and TypeScript, that serves as presentation for the agriculture-related products E-Commerce.
-
-  
-### [Yu-Gi-Oh! Para El Pueblo](https://yugiohparaelpueblo.herokuapp.com/)
-An E-Commerce built using only Laravel (for both the frontend and backend), and MySQL for the database.
 
 
